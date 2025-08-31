@@ -30,8 +30,6 @@
 
 - 📫 How to reach me **gazirifatahmed@gmail.com**
 
-- 📄 Know about my experiences [Smart Food Ordering App (Spring Boot + Flutter + MySQL): Full-stack food ordering system with customer & admin panels, real-time order tracking, and revenue management. Online Food Ordering System (Spring Boot + Angular + MySQL): Web-based system with user registration, menu browsing, and order management features. Android Food Ordering App (Java, SQLite): Mobile app for food ordering with cart management, order placement, and simple user-friendly interface. Online Food Ordering Website (HTML, CSS, JavaScript): Responsive website with cart, checkout, multiple payment options, and modern UI/UX design.](https://github.com/gazirifatahmed)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gazirifatahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gazirifatahmed" height="30" width="40" /></a>
