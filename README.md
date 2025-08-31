@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://i.imgur.com/abcd1234.png" alt="cover photo" width="100%" />
+  <img src="[https://i.imgur.com/abcd1234.png](https://imgur.com/a/VYk8lWu)" alt="cover photo" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gazi Rifat Ahmed</h1>
