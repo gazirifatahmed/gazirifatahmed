@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://your-image-link.com/cover.png" alt="cover photo" width="100%" />
+  <img src="[https://your-image-link.com/cover.png](https://www.facebook.com/photo?fbid=1239153464892629&set=a.163701179104535)" alt="cover photo" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gazi Rifat Ahmed</h1>
