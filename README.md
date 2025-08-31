@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="[https://your-image-link.com/cover.png](https://www.facebook.com/photo?fbid=1239153464892629&set=a.163701179104535)" alt="cover photo" width="100%" />
+  <img src="[[https://your-image-link.com/cover.png](https://www.facebook.com/photo?fbid=1239153464892629&set=a.163701179104535)" alt="cover photo" width="100%](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/541432371_1239153471559295_70335947512178588_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=og8_yFkY3PoQ7kNvwEUAg16&_nc_oc=AdnB7OfF8patgPQP3EpSGRlSCeuRFJWE5g-cXLaIs8O1W8XntR9Fo6dvI5AW5j53QZA&_nc_zt=23&_nc_ht=scontent.fdac27-2.fna&_nc_gid=YaXeXTsKvNrDYYOfke6NKA&oh=00_AfWcZZtIByRwUr6zyBC1dBcOpq-Fw2XEEqdmuM2tRPZ9Mw&oe=68BA7EF8)" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gazi Rifat Ahmed</h1>
