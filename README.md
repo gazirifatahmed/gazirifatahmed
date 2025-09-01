@@ -1,4 +1,4 @@
-full rank seo kore Update kore deo : <!-- Cover Photo -->
+ <!-- Cover Photo -->
 <p align="center">
   <img src="https://i.imgur.com/AiFsVA3.jpeg" alt="cover photo" width="100%" />
 </p>
