@@ -46,6 +46,16 @@
   </a>
 </p>
 
+<!-- Upwork Section -->
+<h3 align="left">Hire Me on Upwork:</h3>
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" 
+         alt="Upwork Profile" 
+         height="40" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- your icons here -->
