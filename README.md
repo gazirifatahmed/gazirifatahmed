@@ -1,9 +1,16 @@
- <!-- Cover Photo -->
+<!-- Cover Photo -->
 <p align="center">
   <img src="https://i.imgur.com/AiFsVA3.jpeg" alt="cover photo" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gazi Rifat Ahmed</h1>
+<!-- Animated Intro -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00BFA6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Gazi+Rifat+Ahmed;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Flutter+%7C+MySQL;Web+%26+Mobile+App+Developer;Welcome+to+my+GitHub+Profile!"
+    alt="Typing SVG"
+  />
+</p>
+
 <h3 align="center">Full-Stack Developer | Java, Spring Boot, Flutter, MySQL | Web & Mobile Apps</h3>
 
 <p align="left">
@@ -22,15 +29,17 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Advanced Flutter & Firebase**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/gazirifatahmed](https://github.com/gazirifatahmed)
+### 🚀 About Me
+- 🌱 I’m currently learning **Advanced Flutter & Firebase**  
+- 👨‍💻 All of my projects are available at [https://github.com/gazirifatahmed](https://github.com/gazirifatahmed)  
+- 💬 Ask me about **Java, Spring Boot, Flutter, MySQL & Digital Marketing**  
+- 📫 How to reach me **gazirifatahmed@gmail.com**  
 
-- 💬 Ask me about **I have technical expertise in the digital marketing sector and have successfully completed several projects that showcase my skills. These past experiences will contribute to achieving strong results in future projects. I believe success comes not only through hard work but also by applying strategic and technical insights. I am confident in my ability to provide both.**
+---
 
-- 📫 How to reach me **gazirifatahmed@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me
 <p align="left">
   <a href="https://twitter.com/gazirifatahmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
@@ -46,8 +55,9 @@
   </a>
 </p>
 
-<!-- Upwork Section -->
-<h3 align="left">Hire Me on Upwork:</h3>
+---
+
+### 💼 Hire Me on Upwork
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~010d1c05841f333517" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" 
@@ -56,12 +66,16 @@
   </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
 <p align="left">
-  <!-- your icons here -->
+  <!-- এখানে চাইলে আইকন বসাতে পারো (Java, Spring, Flutter, MySQL etc.) -->
 </p>
 
+---
+
+### 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gazirifatahmed&show_icons=true&locale=en&layout=compact" alt="gazirifatahmed" />
 </p>
