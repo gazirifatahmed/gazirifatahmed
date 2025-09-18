@@ -13,55 +13,52 @@
 
 <h3 align="center">💻 Full-Stack Developer | Java, Spring Boot, Flutter, MySQL | Web & Mobile Apps 🚀</h3>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gazirifatahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gazirifatahmed&label=Profile%20views&color=0e75b6&style=flat" alt="gazirifatahmed" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+<!-- Social & Work Links -->
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gazirifatahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <!-- Upwork -->
   <a href="https://www.upwork.com/freelancers/~010d1c05841f333517" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%2300b22d.svg?&style=for-the-badge&logo=upwork&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
   </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gazirifat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Gmail -->
   <a href="mailto:gazirifatahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/gazirifatahmed">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- GitHub -->
+  <a href="https://github.com/gazirifatahmed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+<!-- Tech Stack -->
+<h3 align="center">⚒️ Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,androidstudio,html,css,js,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,mysql,sqlite,html,css,js,androidstudio,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gazirifatahmed&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazirifatahmed&theme=tokyonight" alt="streak" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazirifatahmed&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ---
 
-### 🚀 About Me
-- 🎓 Software Engineer & Freelancer  
-- 💼 Experienced in **Web & Mobile App Development**  
-- 🧑‍💻 Passionate about building scalable systems  
-- 📚 Always learning new technologies  
-
----
-
-⭐️ From [Gazi Rifat Ahmed](https://github.com/gazirifatahmed)
+<!-- Footer -->
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
