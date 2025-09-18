@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/gazirifatahmed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~010d1c05841f333517" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-%2300b22d.svg?&style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
   <a href="mailto:gazirifatahmed@gmail.com">
