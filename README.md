@@ -11,41 +11,65 @@
   />
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | Java, Spring Boot, Flutter, MySQL | Web & Mobile Apps</h3>
+<h3 align="center">🚀 Full-Stack Developer | Java, Spring Boot, Flutter, MySQL | Web & Mobile Apps</h3>
 
----
-
-<!-- Profile Views & Badges -->
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gazirifatahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="gazirifatahmed" />
-  <img src="https://img.shields.io/badge/Focus-FullStackDev-brightgreen" />
-  <img src="https://img.shields.io/badge/Code-Java%20%7C%20Flutter-blueviolet" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20&%20DevOps-orange" />
+  <img src="https://komarev.com/ghpvc/?username=gazirifatahmed&label=Profile%20views&color=0e75b6&style=flat" alt="gazirifatahmed" />
 </p>
 
 ---
 
-<!-- Tech Stack -->
-<h3 align="center">🚀 Tech Stack</h3>
+## 🌐 Connect with me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,androidstudio,html,css,js,git,github" />
+  <a href="mailto:gazirifatahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gazirifatahmed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/gazi.rifat.ahmed"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://github.com/gazirifatahmed"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gazirifatahmed&show_icons=true&theme=radical" alt="stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazirifatahmed&layout=compact&theme=radical" alt="langs" height="160" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-<!-- Connect -->
-<h3 align="center">🌐 Connect with me</h3>
+## 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:gazirifatahmed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gazirifatahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/gazirifat.ahmed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gazirifatahmed&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazirifatahmed&theme=tokyonight" alt="streak" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazirifatahmed&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gazirifatahmed&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/gazirifatahmed/food-order-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gazirifatahmed&repo=food-order-app&theme=tokyonight"></a>
+  <a href="https://github.com/gazirifatahmed/student-crud-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gazirifatahmed&repo=student-crud-app&theme=tokyonight"></a>
+</p>
+
+---
+
+⭐️ From [Gazi Rifat Ahmed](https://github.com/gazirifatahmed)
