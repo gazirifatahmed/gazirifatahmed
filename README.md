@@ -11,79 +11,41 @@
   />
 </p>
 
-<h3 align="center">Full-Stack Developer | Java, Spring Boot, Flutter, MySQL | Web & Mobile Apps</h3>
+<h3 align="center">💻 Full-Stack Developer | Java, Spring Boot, Flutter, MySQL | Web & Mobile Apps</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gazirifatahmed&label=Profile%20views&color=0e75b6&style=flat" alt="gazirifatahmed" />
-</p>
+---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gazirifatahmed" alt="gazirifatahmed" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/gazirifatahmed" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/gazirifatahmed?logo=twitter&style=for-the-badge" alt="gazirifatahmed" />
-  </a>
+<!-- Profile Views & Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gazirifatahmed&label=Profile%20Views&color=0e75b6&style=flat" alt="gazirifatahmed" />
+  <img src="https://img.shields.io/badge/Focus-FullStackDev-brightgreen" />
+  <img src="https://img.shields.io/badge/Code-Java%20%7C%20Flutter-blueviolet" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20&%20DevOps-orange" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning **Advanced Flutter & Firebase**  
-- 👨‍💻 All of my projects are available at [https://github.com/gazirifatahmed](https://github.com/gazirifatahmed)  
-- 💬 Ask me about **Java, Spring Boot, Flutter, MySQL & Digital Marketing**  
-- 📫 How to reach me **gazirifatahmed@gmail.com**  
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/gazirifatahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/gazi-rifat-ahmed-11888a1a5/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/freelancerrifatahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@gazirifatahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
-  </a>
+<!-- Tech Stack -->
+<h3 align="center">🚀 Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,androidstudio,html,css,js,git,github" />
 </p>
 
 ---
 
-### 💼 Hire Me on Upwork
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/~010d1c05841f333517" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" 
-         alt="Upwork Profile" 
-         height="40" />
-  </a>
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gazirifatahmed&show_icons=true&theme=radical" alt="stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazirifatahmed&layout=compact&theme=radical" alt="langs" height="160" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <!-- এখানে চাইলে আইকন বসাতে পারো (Java, Spring, Flutter, MySQL etc.) -->
-</p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gazirifatahmed&show_icons=true&locale=en&layout=compact" alt="gazirifatahmed" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gazirifatahmed&show_icons=true&locale=en" alt="gazirifatahmed" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gazirifatahmed&" alt="gazirifatahmed" />
+<!-- Connect -->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="mailto:gazirifatahmed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gazirifatahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/gazirifat.ahmed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
