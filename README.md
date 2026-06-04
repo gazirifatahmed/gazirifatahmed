@@ -1,6 +1,6 @@
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://i.imgur.com/AiFsVA3.jpeg" alt="cover photo" width="100%" />
+  <img width="1682" height="624" alt="Cover Photo" src="https://github.com/user-attachments/assets/c5e33b38-f909-4807-be7a-824e2e30c4e4" />
 </p>
 
 <!-- Animated Intro -->
