@@ -1,6 +1,6 @@
-<!-- Cover Photo -->
+<!-- Cover Photo - New Banner -->
 <p align="center">
-  <img width="1682" height="624" alt="Cover Photo" src="https://github.com/user-attachments/assets/c5e33b38-f909-4807-be7a-824e2e30c4e4" />
+  <img width="1680" height="608" alt="Banner" src="https://github.com/user-attachments/assets/2dfa1a70-4f25-4fdb-8e99-998719c2869b" />
 </p>
 
 <!-- Animated Intro -->
